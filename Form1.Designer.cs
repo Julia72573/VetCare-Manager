@@ -288,7 +288,6 @@
             label1.Size = new Size(30, 15);
             label1.TabIndex = 45;
             label1.Text = "Imię";
-            
             // 
             // label2
             // 
@@ -469,7 +468,6 @@
             label21.Size = new Size(104, 15);
             label21.TabIndex = 65;
             label21.Text = "Wyszukaj pacjenta";
-           
             // 
             // label22
             // 
@@ -488,7 +486,6 @@
             label23.Size = new Size(97, 15);
             label23.TabIndex = 67;
             label23.Text = "Dodaj właściciela";
-            
             // 
             // label24
             // 
