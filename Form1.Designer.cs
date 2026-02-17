@@ -279,6 +279,7 @@
             pbLogo.SizeMode = PictureBoxSizeMode.Zoom;
             pbLogo.TabIndex = 44;
             pbLogo.TabStop = false;
+            pbLogo.Click += pbLogo_Click;
             // 
             // label1
             // 
