@@ -1,4 +1,4 @@
-Kod do tworzenia loklanej bazy danych.
+Kod do tworzenia bazy danych.
 
 CREATE TABLE Owners ( id_owner INT PRIMARY KEY IDENTITY(1,1), firstname NVARCHAR(50), lastname NVARCHAR(50), phone NVARCHAR(15) UNIQUE );
 
