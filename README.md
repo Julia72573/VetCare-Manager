@@ -1,3 +1,5 @@
+Kod do tworzenia loklanej bazy danych.
+
 CREATE TABLE Owners ( id_owner INT PRIMARY KEY IDENTITY(1,1), firstname NVARCHAR(50), lastname NVARCHAR(50), phone NVARCHAR(15) UNIQUE );
 
 CREATE TABLE Vets ( id_vet INT PRIMARY KEY IDENTITY(1,1), firstname NVARCHAR(50), lastname NVARCHAR(50), specialization NVARCHAR(100) );
